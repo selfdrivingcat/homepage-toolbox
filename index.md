@@ -154,8 +154,8 @@ Der Eingang befindet sich gegenüber dem Haupteingang des Hörsaalgebäudes II.
   <tr>
   <td>Fr</td>
   <td>02.10.2026</td>
-  <td>01.10.2026</td>
   <td>13-17 Uhr</td>
+  <td>CT ZE HS02</td>
   <td>Große Übungen</td>
   </tr>
   <tr>
