@@ -253,7 +253,7 @@ print(f"{elements = }")
 
 Let's move on to [Lesson 3 - Control Structures](/introduction/control_structures).
 
-# Complete Code
+# Complete code
 At the end of each lesson, you will find the complete code for that lesson.
 
 ```python
